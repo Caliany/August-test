@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++0816-面试加油", "C++0816-面试加油\C++0816-面试加油.vcxproj", "{94633514-0BC0-40C1-ADD2-9152B37A7469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94633514-0BC0-40C1-ADD2-9152B37A7469}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94633514-0BC0-40C1-ADD2-9152B37A7469}.Debug|Win32.Build.0 = Debug|Win32
+		{94633514-0BC0-40C1-ADD2-9152B37A7469}.Release|Win32.ActiveCfg = Release|Win32
+		{94633514-0BC0-40C1-ADD2-9152B37A7469}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
